@@ -1,2 +1,3 @@
-# Jouleffect Projects Page ![photo_2022-02-20_08-34-22](https://user-images.githubusercontent.com/53179989/154842551-35382154-0288-45dd-b8cb-ea91c1ff9136.jpg) 
+# Jouleffect Projects Page 
+![photo_2022-02-20_08-34-22](https://user-images.githubusercontent.com/53179989/154842551-35382154-0288-45dd-b8cb-ea91c1ff9136.jpg) 
 ## Coming soon...
