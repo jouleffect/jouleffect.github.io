@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-    Welcome to my projects page!
+    Welcome to my projects' page!
   </h1>
   <h2>
     Categories:
