@@ -1,10 +1,7 @@
 <p align="center">
-  <h1 align="center">
-    Welcome to my projects' page!
+  <h1 align="center">    
+    Projects Categories:
   </h1>
-  <h2>
-    Categories:
-  </h2>
   <ul>
     <li><h3>Machine Learning</h3>
       <p><a href="babyeye.html">Baby Eye</a></p>      
