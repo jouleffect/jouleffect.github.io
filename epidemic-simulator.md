@@ -10,6 +10,9 @@ githubzip_url: https://github.com/jouleffect/SEIRD-Epidemics-Simulator/archive/r
 <h2> A network-based epidemic simulator</h2>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
   
 This project was realized for the "Complex Networks" course, hold at the Department of Information Technology of University of Palermo.<br>
 
