@@ -8,11 +8,12 @@ layout: default
 
 {{content}}
 
-<p class="view" style="color:red">- by {{ page.author | default: site.author }} -</p>
 
 {% if page.githublink %}
 <p><a href="{{ page.githublink}}" class="btn btn-github"><span class="icon"></span>View on GitHub</a></p>
 {% endif %}
+
+<p class="view" style="color:red">- by {{ page.author | default: site.author }} -</p>
 
 {% if page.tags %}
 <p><small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small></p>
