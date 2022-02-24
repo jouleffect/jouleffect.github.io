@@ -91,3 +91,5 @@ A. Kuzdeuov, A. Karabay, D. Baimukashev, B. Ibragimov and  H. A. Varol, "A Parti
 A. Karabay, A. Kuzdeuov, S. Ospanova, M. Lewis and H. A. Varol, "A Vaccination Simulator for COVID-19: Effective and Sterilizing Immunization Cases," in IEEE Journal of Biomedical and Health Informatics, vol. 25, no. 12, pp. 4317-4327, Dec. 2021, doi: 10.1109/JBHI.2021.3114180.
 
 A. Kuzdeuov *et al*., "A Network-Based Stochastic Epidemic Simulator: Controlling COVID-19 With Region-Specific Policies," in *IEEE Journal of Biomedical and Health Informatics*, vol. 24, no. 10, pp. 2743-2754, Oct. 2020, doi: 10.1109/JBHI.2020.3005160.
+
+* * *
