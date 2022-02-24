@@ -83,7 +83,6 @@ The GUI will open and you can start to use the simulator.
 
 <h2>REFERENCES:</h2>
 
-<pre>
 
 Erdos-Renyi network model, LT03 - Spread of epidemics models, LT11 - Spread of epidemics networked models, LT12. Prof. Salvatore Miccichè - Complex Networks 2021/2022. Master in Informatics, University of Palermo.
 
@@ -92,6 +91,3 @@ A. Kuzdeuov, A. Karabay, D. Baimukashev, B. Ibragimov and  H. A. Varol, "A Parti
 A. Karabay, A. Kuzdeuov, S. Ospanova, M. Lewis and H. A. Varol, "A Vaccination Simulator for COVID-19: Effective and Sterilizing Immunization Cases," in IEEE Journal of Biomedical and Health Informatics, vol. 25, no. 12, pp. 4317-4327, Dec. 2021, doi: 10.1109/JBHI.2021.3114180.
 
 A. Kuzdeuov *et al*., "A Network-Based Stochastic Epidemic Simulator: Controlling COVID-19 With Region-Specific Policies," in *IEEE Journal of Biomedical and Health Informatics*, vol. 24, no. 10, pp. 2743-2754, Oct. 2020, doi: 10.1109/JBHI.2020.3005160.
-
-</pre>
-
