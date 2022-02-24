@@ -8,9 +8,11 @@ githubzip_url: https://github.com/jouleffect/SEIRD-Epidemics-Simulator/archive/r
 ---
 
 <h2> A network-based epidemic simulator</h2>
-  
-<img alt=”React” src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
 
+<p>
+  <img alt=”React” src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+</p>
+  
 This project was realized for the "Complex Networks" course, hold at the Department of Information Technology of University of Palermo.<br>
 
 The goal is to analyze the time evoulition of epidemics spread, based on the SEIRD model.<br>
