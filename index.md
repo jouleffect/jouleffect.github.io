@@ -19,7 +19,7 @@
     </li> 
     <li><h3>Tools and tutorials</h3>
       <a href="clocktask.html">ClockTask Interface</a><br>
-      <a href="clocktask.html">Switch Off Computer</a>
+      <a href="switchoff.html">Switch Off Computer</a>
     </li>  
   </ul>
 </p>
