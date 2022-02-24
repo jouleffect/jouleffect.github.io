@@ -58,7 +58,7 @@ def start_sim():
   p = net.plot(i,sim)
 ```
 
-
+* * *
 
 <h3>HOW TO INSTALL:</h3> 
 
@@ -81,8 +81,9 @@ The GUI will open and you can start to use the simulator.
   <img src="https://user-images.githubusercontent.com/53179989/154806110-5482b180-3284-469b-8539-53986b42a3d0.png" style="width:500px;">
 </p>
 
-<h2>REFERENCES:</h2>
+* * *
 
+<h2>REFERENCES:</h2>
 
 Erdos-Renyi network model, LT03 - Spread of epidemics models, LT11 - Spread of epidemics networked models, LT12. Prof. Salvatore Miccichè - Complex Networks 2021/2022. Master in Informatics, University of Palermo.
 
