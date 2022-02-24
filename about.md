@@ -7,6 +7,8 @@
 <p align="center"><b>Mail address </b>: giulia.maraventano@community.unipa.it</p>
 <p align="center"><b> LinkedIn </b>: https://www.linkedin.com/in/giulia-maraventano</p>
 
+* * *
+
 ## Technical Skills:
 OS:
 
@@ -32,12 +34,15 @@ Blockchain:
 
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
+* * *
 
 ## My professional training:
 - Bachelor degree in mathematics (2008)
 - Master in Informatics @ University of Palermo (incoming)
 
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+
+* * *
 
 ## I’m improving my knowledge of:
 - AI: Machine Learning, Deep Learning and Data Science 
