@@ -22,7 +22,7 @@ edge probabiltity between them.
 </p>
 
 A Susceptible node can be catch the disease if it has an edge with an Exposed or Infected one. <br>
-If it happens, the node becomes Exposed for a specific time, after which it becomes automatically Infected <br>
+If it happens, the node becomes Exposed for a specific time, after which it becomes automatically Infected. <br>
 During the Infection period, the node could become Recovered, but also it could fall in the Severe Infected state. <br>
 If the node falls in the Severe Infected state, there is a probability that it could die.<br>
 Note that, the node in the Dead state is not removed from the network, but it is just not taken in account for the rest of the next steps.<br>
@@ -36,7 +36,21 @@ The scripts of the program are the following:
 In the main script, in addition to the GUI objects, there is a function with this lines:
 
 <pre><code>
+def start_sim():
+  sim = simulator.Simulator()
+  net = model.Network(sim)
+  for i in range(sim.num_iter):
+    net.update_states(i,sim)
+    net.t_state = net.t_state + sim.dt_state
+    new_cases = net.get_new_cases(i,sim)
+    sim.s_to_e(net,new_cases)
+    sim.e_to_i(net)
+    sim.i_to_r(net)
+    sim.i_to_ig(net,i)
+    sim.ig_to_d(net,i)
 
+  if i>=plot_freq and i%plot_freq==0:
+  p = net.plot(i,sim)
 </code></pre>
 
 
