@@ -37,9 +37,9 @@ Blockchain:
 * * *
 
 ## My professional training:
-- Bachelor degree in mathematics (2008)
-- Master in Informatics @ University of Palermo (incoming)
 
+- Master in Informatics @ University of Palermo (incoming)
+- Bachelor degree in mathematics (2008)
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 * * *
@@ -47,5 +47,6 @@ Blockchain:
 ## I’m improving my knowledge of:
 - AI: Machine Learning, Deep Learning and Data Science 
 - Digital Software Development
+- Complex networks
 - Cloud Technologies
 - Cybersecurity
