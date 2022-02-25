@@ -9,6 +9,7 @@ githubzip_url: https://github.com/jouleffect/hyperledger-fabric-energy/archive/r
 
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 
 This project has been realized for the Cybersecurity course, hold at the University of Palermo.<br>
 The topic is to simulate, on small scale, the control of electricity balancing, with a web interface, thanks to the blockchain technology inside the system.<br>
