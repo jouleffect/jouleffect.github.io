@@ -58,6 +58,18 @@ def start_sim():
   p = net.plot(i,sim)
 ```
 
+Inside the loop, these funcions are performed:
+
+1. update_states(): updates the table states for each iteration
+2. get_new_cases(): returns new cases of exposed to disease, according to the adjacency list
+3. s_to_e(): takes the new cases and updates the state of the exposed nodes.
+4. e_to_i(): updates the state from exposed to infected
+5. i_to_r(): updates the state from infected to recovered
+6. i_to_ig(): set which infected nodes go to the severe infected state
+7. ig_to_d(): set which severe infected nodes go to the dead state
+8. plot(): plot funcion of the epidemic states
+
+
 * * *
 
 <h3>HOW TO INSTALL:</h3> 
@@ -80,6 +92,18 @@ The GUI will open and you can start to use the simulator.
 <p>
   <img src="https://user-images.githubusercontent.com/53179989/154806110-5482b180-3284-469b-8539-53986b42a3d0.png" style="width:500px;">
 </p>
+
+#### Parameters
+
+- Number of nodes: number of individuals of the population
+- Link probability: mean connection rate between individuals
+- Number of iterations: number of days to analyze
+- Initial exposed: initial number of individuals affected from the disease
+- Incubation period: incubation time of the disease
+- Disease period: time of the disease
+- Transmission rate (α)
+- Severe infected rate (β).
+- Mortality rate (γ).
 
 * * *
 
