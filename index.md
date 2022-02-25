@@ -1,4 +1,3 @@
-<p align="center">
   <h1 align="center">    
     Projects Categories:
   </h1>
@@ -20,7 +19,6 @@
   <h1 align="center">    
     Newsletter:
   </h1>
-</p>
 
 * * * 
 
