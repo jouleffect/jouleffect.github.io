@@ -15,7 +15,7 @@
       <p><a href="switchoff.html">Switch Off Computer</a></p>  
   </div>
   
-  * * * 
+* * * 
   
   <h1 align="center">    
     Newsletter:
