@@ -8,7 +8,7 @@ githubzip_url: https://github.com/jouleffect/hyperledger-fabric-energy/archive/r
 ---
 
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
 This project has been realized for the Cybersecurity course, hold at the University of Palermo.<br>
 The topic is to simulate, on small scale, the control of electricity balancing, with a web interface, thanks to the blockchain technology inside the system.<br>
@@ -21,7 +21,7 @@ In this simulation the energy supplier has control of the threshold of consumer 
 Hyperledger Fabric is an opensource DLT platform (distributed ledger technology), made by Linux-Foundation, in order to develop software applications inside a safe network, because it is based on Blockchain technology. <br>
 In this topic, I use a distributed and permissioned network, which is a network of nodes, where each node has the same features and the same persmissions of the others. Therefore, this network is a private and secure network and it ensures privacy, integrity and confidentiality, where only people who authenticate can take part of. This network has a modular architecture, which could be adapted to all demands.<br>
 
-<p>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/53179989/155743574-6ec5c5aa-16fd-4f2e-850c-818daaf16b0a.png" style="width:500px;">
 </p>
 
@@ -110,7 +110,7 @@ The value of the power in the transaction (350) il lower than 3000, so the energ
 "data": "07/07/2021",
 "potenza": 600
 }
-Quando superiore, lo stato dell’entità energia si aggiorna in INTERROTTA (2).
+
 *** Result: {
 "class": "org.energynet.Energy",
 "key": "3200:00001",
@@ -121,7 +121,7 @@ Quando superiore, lo stato dell’entità energia si aggiorna in INTERROTTA (2).
 }
 ```
 
-<p>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/53179989/155750591-919ab96d-d856-4b91-8e7a-b416746d9df8.png" style="width:500px;">
 </p>
 
