@@ -10,6 +10,5 @@
       <p><a href="hyperledger.html">Hyperledger Fabric Energy</a></p>
    <!--h3>Raspberry & Domotic</h3-->
   
-
 * * * 
 
