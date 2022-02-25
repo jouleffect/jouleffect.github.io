@@ -2,7 +2,7 @@
 layout: post
 title: SEIRD Epidemic Simulator
 date: 24/02/2022
-tags: #networks - #graphtheory - #epidemics
+tags: networks - graphtheory - epidemics
 githublink: https://github.com/jouleffect/SEIRD-Epidemics-Simulator
 githubzip_url: https://github.com/jouleffect/SEIRD-Epidemics-Simulator/archive/refs/heads/main.zip
 ---
