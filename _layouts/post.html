@@ -3,6 +3,7 @@ layout: default
 ---
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
+<p class="view" style="color:red">- by {{ page.author | default: site.author }} -</p>
 <h1>{{ page.title }}</h1>
 
 
