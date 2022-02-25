@@ -93,7 +93,7 @@ The GUI will open and you can start to use the simulator.
   <img src="https://user-images.githubusercontent.com/53179989/154806110-5482b180-3284-469b-8539-53986b42a3d0.png" style="width:500px;">
 </p>
 
-#### Parameters
+### Parameters
 
 - Number of nodes: number of individuals of the population
 - Link probability: mean connection rate between individuals
