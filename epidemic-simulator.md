@@ -30,7 +30,7 @@ A Susceptible node can be catch the disease if it has an edge with an Exposed or
 If it happens, the node becomes Exposed for a specific time, after which it becomes automatically Infected. <br>
 During the Infection period, the node could become Recovered, but also it could fall in the Severe Infected state. <br>
 If the node falls in the Severe Infected state, there is a probability that it could die.<br>
-Note that, the node in the Dead state is not removed from the network, but it is just not taken in account for the rest of the next steps.<br>
+Note that, the node in the Dead state is not removed from the network, but it is just not taken in account for the next steps.<br>
 <br>
 The scripts of the program are the following:
 
