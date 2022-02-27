@@ -20,6 +20,4 @@
       <h3>Raspberry & Domotic</h3>
         <p><a href="hyperledger.html">coming soon...</a></p>
     </div>  
-  </div><img width="759" alt="rc" src="https://user-images.githubusercontent.com/53179989/155875628-9b33782a-5e28-4e86-99bc-41d079fee0c9.png">
-
-
+  </div>
