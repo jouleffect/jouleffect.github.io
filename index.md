@@ -1,6 +1,6 @@
   <div align="center" style="height:600px;">    
     <h1>Projects Categories:</h1>
-    <div style="float:left;border:1px solid white;width:150px;background-color:black;">
+    <div style="float:left;border:1px solid white;width:150px;background-color:black;margin-left:20%">
       <h3>Machine Learning</h3>
         <p><a href="babyeye.html">Baby Eye</a></p>
     </div>
