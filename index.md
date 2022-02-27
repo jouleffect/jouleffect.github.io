@@ -1,4 +1,4 @@
-  <div align="center">    
+  <div align="center" style="margin-bottom:100px;">    
     <h1>Projects Categories:</h1>
     <div style="float:left;border:1px solid white;width:150px;">
       <h3>Machine Learning</h3>
