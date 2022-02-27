@@ -13,9 +13,9 @@
       <img src="https://user-images.githubusercontent.com/53179989/155875345-a33e3064-4333-4350-8e31-ccef5cda4db3.jpg">
       <h3>Blockchain</h3>
         <p><a href="hyperledger.html">Hyperledger Fabric Energy</a></p>
-      <!--h3>Raspberry & Domotic</h3-->
     </div>
     <div style="float:left;border:1px solid white;width:200px;height:300px;margin-left:30px;background-color:black;">
+      <img src="https://user-images.githubusercontent.com/53179989/155875501-ca846979-4a9d-4e48-9896-19b603692505.jpg">
       <h3>Raspberry & Domotic</h3>
         <p><a href="hyperledger.html">coming soon...</a></p>
     </div>  
