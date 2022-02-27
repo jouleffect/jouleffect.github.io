@@ -1,4 +1,4 @@
-  <div align="center" style="height:500px;margin-top:50px">    
+  <div align="center" style="height:500px;margin-top:150px">    
     <h1>Projects Categories:</h1>
     <div style="float:left;border:1px solid black;width:200px;height:300px;background-color:black;margin-left:30px">
       <img src="https://user-images.githubusercontent.com/53179989/155874354-d2bbab10-ec80-4d19-8474-fe6f0be37509.jpg">
