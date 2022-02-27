@@ -13,5 +13,9 @@
         <p><a href="hyperledger.html">Hyperledger Fabric Energy</a></p>
       <!--h3>Raspberry & Domotic</h3-->
     </div>
+    <div style="float:left;border:1px solid white;width:200px;height:300px;margin-left:50px;background-color:black;">
+      <h3>Raspberry & Domotic</h3>
+        <p><a href="hyperledger.html">coming soon...</a></p>
+    </div>  
   </div>
 
