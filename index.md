@@ -6,6 +6,7 @@
         <p><a href="babyeye.html">Baby Eye</a></p>
     </div>
     <div style="float:left;border:1px solid white;width:200px;height:300px;margin-left:30px;background-color:black;">
+      <img src="https://user-images.githubusercontent.com/53179989/155875637-ec06bb8d-5417-4b38-aff6-c856791e0da2.png">
       <h3>Complex Networks</h3>
         <p><a href="epidemic-simulator.html">Epidemic Simulator</a></p>
     </div>
@@ -19,5 +20,6 @@
       <h3>Raspberry & Domotic</h3>
         <p><a href="hyperledger.html">coming soon...</a></p>
     </div>  
-  </div>
+  </div><img width="759" alt="rc" src="https://user-images.githubusercontent.com/53179989/155875628-9b33782a-5e28-4e86-99bc-41d079fee0c9.png">
+
 
