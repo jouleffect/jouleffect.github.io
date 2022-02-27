@@ -1,7 +1,5 @@
-  <h1 align="center">    
-    Projects Categories:
-  </h1>
-  <div align="center">
+  <div align="center">    
+    <h1>Projects Categories:</h1>
     <div style="float:left;border:1px solid white;width:150px;">
       <h3>Machine Learning</h3>
         <p><a href="babyeye.html">Baby Eye</a></p>
