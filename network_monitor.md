@@ -12,6 +12,13 @@ tags: networking - nmap - wifi - lan
 
 This script is thinked in order to find if new devices connect to a private access point, in a single specific lan network.\
 It is possible to define a list of allowed devices (MAC addresses) in a text file, so that they can be distinguished by the unknowed ones.\
+The first thing to do is to install the requirements:
+
+```
+> pip install padas
+> sudo apt-get install nmap
+```
+
 The main script, named "monitor.py" is the following:
 
 ```python
@@ -54,6 +61,13 @@ for mac in scan_mac:
 networks.to_csv('networks.csv')
 
 ```
+
+We create a dataframe with the column named "MAC".\
+The subprocess function "check_output" runs the **nmap** tool, in which the private network is the argument (in this example is 192.168.0.0/24)\
+The output of nmap is dirty, so the **re** (regular expression) function python library could catch the desired string (we need to take the Mac address string of the output).
+The _mac_list_ variable takes the lines of the online devices, saved at the end of the script in the _newtworks.csv_ file, to compare them with the new scanned devices.\
+This comparation is made in the for loop, where every device that is not contained in the list is the new connected device, and it's connection is logged in a file. Furthermore, if the device is an allowed one listed in a text file, the log printed in the file specifies the name of the device connected, and the word "Unknown" otherwise.\
+Since the script has to be run about every minute, in order to discover new changes, the final step to do is to put it in a crontab. Another solution is to change the script, by adding an infinite loop with a sleep time for each iteration, but is not recomended, because it could die or be killed without realizing it.
 
 * * *
 
