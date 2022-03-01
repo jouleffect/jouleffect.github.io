@@ -62,7 +62,7 @@ networks.to_csv('networks.csv')
 
 ```
 
-We create a dataframe with the column named "MAC".\
+We create a dataframe with a column named "MAC".\
 The subprocess function "check_output" runs the **nmap** tool, in which the private network is the argument (in this example is 192.168.0.0/24)\
 The output of nmap is dirty, so the **re** (regular expression) function python library could catch the desired string (we need to take the Mac address string of the output).
 The _mac_list_ variable takes the lines of the online devices, saved at the end of the script in the _newtworks.csv_ file, to compare them with the new scanned devices.\
