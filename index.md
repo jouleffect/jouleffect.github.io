@@ -18,7 +18,7 @@
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:300px;margin-left:30px;background-color:black;margin-top:20px;">
       <img src="https://user-images.githubusercontent.com/53179989/155875501-ca846979-4a9d-4e48-9896-19b603692505.jpg">
       <h3>Raspberry & Domotic</h3>
-        <p><a href="hyperledger.html">coming soon...</a></p>
+        <p>coming soon...</p>
     </div>  
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:300px;margin-left:30px;background-color:black;margin-top:20px;">
       <img src="https://user-images.githubusercontent.com/53179989/156190985-7148ada7-8610-4c77-a76c-c2b6a13295b3.jpeg">
