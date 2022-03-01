@@ -10,7 +10,7 @@ tags: networking - nmap - wifi - lan
 
 ## Python script to monitor connections to private network, using Nmap
 
-This script is thinked in order to find if new devices connect to a private access point, in a single specific lan network.\
+This script is thinked in order to detect new connections to a private access point, in a single specific lan network.\
 It is possible to define a list of allowed devices (MAC addresses) in a text file, so that they can be distinguished by the unknowed ones.\
 The first thing to do is to install the requirements:
 
