@@ -46,6 +46,8 @@ Blockchain:
 - 2009 - IFTS Regional course 
 - 2002 -> 2008 - Bachelor degree in mathematics
 
+* * *
+
 ## My certificates:
 
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Cryptography I: https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95
