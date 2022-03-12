@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/53179989/155505992-cf7cfe47-7aef-4d7f-a6e6-ca63ba5b0cee.jpeg" /></p>
+<!--p align="center"><img src="https://user-images.githubusercontent.com/53179989/155505992-cf7cfe47-7aef-4d7f-a6e6-ca63ba5b0cee.jpeg" /></p-->
 
 <h3 align="center"> Hi! I’m "Jouleffect" </h3>
 <h2 align="center"> IT Specialist in Digital Technologies </h2>
@@ -40,9 +40,22 @@ Blockchain:
 
 ## My professional training:
 
-- Master in Informatics @ University of Palermo (incoming)
-- Bachelor degree in mathematics (2008)
-- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+- 2020 -> 2023 - Master in Informatics @ University of Palermo
+- 2015 -> 2020 - IT System & Network Admin @ Teleselling Company
+- 2010 -> 2015 - IT Helpdesk @ Teleselling Company
+- 2009 - IFTS Regional course 
+- 2002 -> 2008 - Bachelor degree in mathematics
+
+## My certificates:
+
+- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Cryptography I: https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95
+
+- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Machine Learning: https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53179989/158012817-839c934e-a047-42ae-ac55-ba5505273c3b.png" style="width:300px" />
+<img src="https://user-images.githubusercontent.com/53179989/158012970-9f9e0813-8a7e-46f4-aec8-626b2d126245.png" style="width:300px" />
+</p>
 
 * * *
 
