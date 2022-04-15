@@ -43,16 +43,16 @@ Blockchain:
 - 2020 -> 2023 - Master in Informatics @ University of Palermo
 - 2015 -> 2020 - IT System & Network Admin @ Teleselling Company
 - 2010 -> 2015 - IT Helpdesk @ Teleselling Company
-- 2009 - IFTS Regional course 
+- 2009 -> IFTS Regional course 
 - 2002 -> 2008 - Bachelor degree in mathematics
 
 * * *
 
 ## My certificates:
 
-- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Cryptography I: https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Cryptography I: <link>https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95</link>
 
-- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Machine Learning: https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Machine Learning: <link>https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd</link>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53179989/158012817-839c934e-a047-42ae-ac55-ba5505273c3b.png" style="width:300px" />
@@ -64,6 +64,7 @@ Blockchain:
 ## I’m improving my knowledge of:
 - AI: Machine Learning, Deep Learning and Data Science 
 - Digital Software Development
+- Datawarehouse
 - Complex networks
 - Cloud Technologies
 - Cybersecurity
