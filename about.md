@@ -40,11 +40,11 @@ Blockchain:
 
 ## My professional training:
 
-- 2020 -> 2023 - Master in Informatics @ University of Palermo
-- 2015 -> 2020 - IT System & Network Admin @ Teleselling Company
-- 2010 -> 2015 - IT Helpdesk @ Teleselling Company
-- 2009 -> IFTS Regional course 
-- 2002 -> 2008 - Bachelor degree in mathematics
+- 2020 -> 2023 : Master in Informatics @ University of Palermo
+- 2015 -> 2020 : IT System & Network Admin @ Teleselling Company
+- 2010 -> 2015 : IT Helpdesk @ Teleselling Company
+-     2009     : IFTS Regional course 
+- 2002 -> 2008 : Bachelor degree in mathematics
 
 * * *
 
