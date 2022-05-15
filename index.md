@@ -2,7 +2,7 @@
     <h1>Categories:</h1>
   
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
-      <img src="https://user-images.githubusercontent.com/53179989/156190985-7148ada7-8610-4c77-a76c-c2b6a13295b3.jpeg">
+      <img src="https://user-images.githubusercontent.com/53179989/156190985-7148ada7-8610-4c77-a76c-c2b6a13295b3.jpeg" style="height:200px">
       <h3>Networking</h3>
         <p><a href="network_monitor.html">Network connections monitor</a></p>
     </div>
