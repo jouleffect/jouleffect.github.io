@@ -1,4 +1,5 @@
-  <div align="center" style="height:500px;margin-top:30px;margin-bottom:30px;">    
+  <div align="center" style="height:500px;margin-top:30px;margin-bottom:30px;"> 
+  <p align="center"><img src="https://user-images.githubusercontent.com/53179989/169140133-b30cb7d5-380a-4e2b-af7c-3ed4821d6a73.png" style="width:400px;" ></p>
     <h1>Categories:</h1>
   
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
