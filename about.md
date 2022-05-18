@@ -7,6 +7,8 @@
 <p align="center"><b>Mail address </b>: giulia.maraventano@community.unipa.it</p>
 <p align="center"><b> LinkedIn </b>: https://www.linkedin.com/in/giulia-maraventano</p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/53179989/169140133-b30cb7d5-380a-4e2b-af7c-3ed4821d6a73.png" style="width:200px;" ></p>
+
 * * *
 
 ## Technical Skills:
