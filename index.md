@@ -28,7 +28,7 @@
     
   </div>
   
-  <div style="clear: both;">
+  <div align="center" style="clear: both;">
   <h1>Hackathons, Workshops & Webinars:</h1>
     Here is the link to the blog page about all the experiences of IT meeting around the world.
   <p><a href="https://jouleffect.github.io/hackablog/">HackaBlog</a></p>
