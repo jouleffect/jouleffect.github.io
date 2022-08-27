@@ -27,6 +27,8 @@
       <p><a href="https://github.com/jouleffect/Digit-Recognizer">Digit Recognizer</a></p>
     </div-->
   
+  <h1>Blog:</h1>
+  
   </div>
   
   <div style="clear: both;">
