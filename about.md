@@ -52,32 +52,27 @@ Blockchain:
 
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
-* * *
-
-## My professional training:
-
-- 2020 -> 2023 : Master in Informatics @ University of Palermo
-- 2015 -> 2020 : IT System & Network Admin @ Teleselling Company
-- 2010 -> 2015 : IT Helpdesk @ Teleselling Company
-- 2009         : IFTS Regional course 
-- 2002 -> 2008 : Bachelor degree in mathematics
 
 * * *
 
-## My certificates:
+## Professional career:
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Cryptography I: <link>https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95</link>
-
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Machine Learning: <link>https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd</link>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/53179989/158012817-839c934e-a047-42ae-ac55-ba5505273c3b.png" style="width:300px" />
-<img src="https://user-images.githubusercontent.com/53179989/158012970-9f9e0813-8a7e-46f4-aec8-626b2d126245.png" style="width:300px" />
-</p>
+- 2021 : Cloud Support Engineer @ Seeds S.r.l.
+- 2015 - 2020 : IT System & Network Admin @ Teleselling Company
+- 2010 - 2015 : IT Helpdesk @ Teleselling Company
 
 * * *
 
-## I’m improving my knowledge of:
+## Education:
+
+- 2020 - 2023 : Master in Informatics @ University of Palermo
+- 2009 : IFTS Regional course 
+- 2002 - 2008 : Bachelor degree in mathematics
+
+* * *
+
+
+## My operational fields:
 - AI: Machine Learning, Deep Learning and Data Science 
 - Digital Software Development
 - Datawarehouse
@@ -86,3 +81,14 @@ Blockchain:
 - Cybersecurity
 
 * * * 
+
+## My certificates:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53179989/158012817-839c934e-a047-42ae-ac55-ba5505273c3b.png" style="width:300px" />
+  <link>https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95</link>
+<img src="https://user-images.githubusercontent.com/53179989/158012970-9f9e0813-8a7e-46f4-aec8-626b2d126245.png" style="width:300px" />
+  <link>https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd</link>
+</p>
+
+* * *
