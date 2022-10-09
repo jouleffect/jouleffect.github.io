@@ -31,13 +31,13 @@
   ---
   
   <div align="center" style="clear: both;">
-  <h1>Hackathons & Digital Innovation Workshops:</h1>
+  <!--h1>Hackathons & Digital Innovation Workshops:</h1>
   <ul>
     <li> 19/05/2022 - Palermo (IT) : Cloud Careers & Job Opportunities </li>
   </ul>
   
     Here is the link to the blog page about all the experiences of IT meetings around the world:
-  <p><a href="https://jouleffect.github.io/hackablog/">HackaBlog</a></p>
+  <p><a href="https://jouleffect.github.io/hackablog/">HackaBlog</a></p-->
   
   </div>
   
