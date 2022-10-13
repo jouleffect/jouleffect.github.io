@@ -82,13 +82,39 @@ Blockchain:
 
 * * * 
 
-## Certificates:
+## Course Certificates:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53179989/158012817-839c934e-a047-42ae-ac55-ba5505273c3b.png" style="width:300px" />
   <a href="https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95">Link</a>
 <img src="https://user-images.githubusercontent.com/53179989/158012970-9f9e0813-8a7e-46f4-aec8-626b2d126245.png" style="width:300px" />
   <a href="https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd">Link</a>
+</p>
+
+* * *
+
+## Workshops & Webinars
+
+<p align="center">
+  <li>
+    <ul>2-3/11/2022 - BloRin Workshop - Hotel La Torre, Mondello, Palermo</ul>
+  </li>
+  <li>
+    <ul>19/05/2022 - CLOUDTEC: Cloud Careers & Job Opportunities - Consorzio Arca, Palermo</ul>
+  </li>
+  <li>
+    <ul>11/05/2022 - DevOps Journey, dal codice al rilascio - Dip. Matematica e Informatica, Università degli Studi di Palermo</ul>
+  </li>
+  <li>
+    <ul>06/04/2022 - EXPLEO: Dal rumore alla conoscenza: il progetto Datafactor - Online</ul>
+  </li>
+  
+  <li>
+    <ul>04/10/2021 - La difficile arte di costruire modelli e la tentazione di evitare la teoria usando i BIG DATA - Online</ul>
+  </li>
+  <li>
+    <ul>26/10/2018 - Linux Day - Consorzio Arca, Palermo</ul>
+  </li>
 </p>
 
 * * *
