@@ -100,7 +100,7 @@ Blockchain:
     <ul>18/10/2022 - Progetto I-SOLE, Smart Grids per le isole minori - Online</ul>
   </li>
   <li>
-    <ul>2-3/11/2022 - BloRin Workshop - Hotel La Torre, Mondello, Palermo</ul>
+    <ul>2-3/09/2022 - BloRin Workshop - Hotel La Torre, Mondello, Palermo</ul>
   </li>
   <li>
     <ul>19/05/2022 - CLOUDTEC: Cloud Careers & Job Opportunities - Consorzio Arca, Palermo</ul>
