@@ -97,6 +97,9 @@ Blockchain:
 
 <p align="center">
   <li>
+    <ul>18/10/2022 - Progetto I-SOLE, Smart Grids per le isole minori - Online</ul>
+  </li>
+  <li>
     <ul>2-3/11/2022 - BloRin Workshop - Hotel La Torre, Mondello, Palermo</ul>
   </li>
   <li>
