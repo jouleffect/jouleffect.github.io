@@ -1,5 +1,5 @@
   <div align="center" style="height:500px;margin-top:30px;margin-bottom:30px;"> 
-    <h1>Projects:</h1>
+    <h1>Works:</h1>
 
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
       <img src="https://user-images.githubusercontent.com/53179989/169142114-871df749-869b-4c2a-92de-79d18bd5dad3.png" style="height:200px">
