@@ -122,6 +122,9 @@ Blockchain:
 
 * * *
 
-<p><img src="https://user-images.githubusercontent.com/53179989/169140133-b30cb7d5-380a-4e2b-af7c-3ed4821d6a73.png" style="width:100px;" >
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/53179989/169140133-b30cb7d5-380a-4e2b-af7c-3ed4821d6a73.png" style="width:150px;" >
   <img src="https://cdn-icons-png.flaticon.com/512/1797/1797500.png" style="width:100px;" >
+  <img src="https://icon-library.com/images/blockchain-icon/blockchain-icon-14.jpg" style="width:100px;" >
+  <img src="" style="width:100px;" >
 </p>
