@@ -2,7 +2,7 @@
 <!--p align="center"><img src="https://user-images.githubusercontent.com/53179989/155505992-cf7cfe47-7aef-4d7f-a6e6-ca63ba5b0cee.jpeg" /></p-->
 
 <!--h3 align="center"> Hi! I’m "Jouleffect" </h3-->
-<p align="center"><img src="https://user-images.githubusercontent.com/53179989/169140133-b30cb7d5-380a-4e2b-af7c-3ed4821d6a73.png" style="width:200px;" ></p>
+
 <h2 align="center"> Innovative Systems & Digital Technologies </h2>
                                                                                                                 
 <p align="center"><b>Mail address </b>: giulia.maraventano@community.unipa.it</p>
@@ -121,3 +121,7 @@ Blockchain:
 </p>
 
 * * *
+
+<p><img src="https://user-images.githubusercontent.com/53179989/169140133-b30cb7d5-380a-4e2b-af7c-3ed4821d6a73.png" style="width:100px;" >
+  <img src="https://cdn-icons-png.flaticon.com/512/1797/1797500.png" style="width:100px;" >
+</p>
