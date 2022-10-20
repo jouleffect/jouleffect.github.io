@@ -97,6 +97,9 @@ Blockchain:
 
 <p align="center">
   <li>
+    <ul>22/10/2022 - Linux Day - Viale delle Scienze, UNIPA, Palermo</ul>
+  </li>
+  <li>
     <ul>18/10/2022 - Progetto I-SOLE, Smart Grids per le isole minori - Online</ul>
   </li>
   <li>
