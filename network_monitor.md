@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Network connections monitor
+title: LAN Access Control Script
 date: 01/03/2022
 tags: networking - nmap - wifi - lan
 ---
@@ -8,10 +8,10 @@ tags: networking - nmap - wifi - lan
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Python script to monitor connections to private network, using Nmap
+## Python script to monitor private network access, using Nmap
 
-This script is thinked in order to detect new connections to a private access point, in a single specific lan network.\
-It is possible to define a list of allowed devices (MAC addresses) in a text file, so that they can be distinguished by the unknowed ones.\
+This script is thinked in order to detect new connections to a private access point, of a single specific lan network.\
+A list of allowed devices (withelist) is defined in a text file.\
 The first thing to do is to install the requirements:
 
 ```
