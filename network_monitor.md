@@ -2,7 +2,7 @@
 layout: post
 title: LAN Access Control Script
 date: 01/03/2022
-tags: networking - nmap - wifi - lan
+tags: networking - cybersecurity - wifi - lan
 ---
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
