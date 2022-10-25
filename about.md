@@ -132,4 +132,5 @@ Blockchain:
   <img src="https://cdn-icons-png.flaticon.com/512/1797/1797500.png" style="width:100px;" >
   <img src="https://icon-library.com/images/blockchain-icon/blockchain-icon-14.jpg" style="width:100px;" >
   <img src="https://www.deeptracetech.com/images/researchareas/ai.png" style="width:100px;" >
+  <img src="https://user-images.githubusercontent.com/53179989/197754656-4b9f5239-1bf3-4418-8135-f11b14715adf.png" style="width:100px;" >
 </p>
