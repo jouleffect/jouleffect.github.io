@@ -85,10 +85,12 @@ Blockchain:
 ## Certificates & Badges:
 
 <p>
+  <a href="https://coursera.org/share/32fea26fa8232dab0e4a951109322da9"><img src="https://user-images.githubusercontent.com/53179989/201954262-4e59f14c-4bb7-4ce8-8587-065c3a758f82.png" style="width:300px" /></a>  
   <a href="https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95"><img src="https://user-images.githubusercontent.com/53179989/158012817-839c934e-a047-42ae-ac55-ba5505273c3b.png" style="width:300px" /></a>
   <a href="https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd"><img src="https://user-images.githubusercontent.com/53179989/158012970-9f9e0813-8a7e-46f4-aec8-626b2d126245.png" style="width:300px" /></a>
 </p>
 <p>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="97b6a1d9-cde2-49f0-bc7e-af431c508587" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43ea0d00-fb74-4468-81be-abdf5e3bdd99" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ddaeb50-83fa-4c7e-b83a-840cbb4ec8a0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
