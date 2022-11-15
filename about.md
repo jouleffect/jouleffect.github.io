@@ -99,6 +99,9 @@ Blockchain:
 
 <p align="center">
   <li>
+    <ul>14/11/2022 - Production of raw materials for batteries from European resources - Brussels</ul>
+  </li>
+  <li>
     <ul>22/10/2022 - Linux Day - Viale delle Scienze, UNIPA, Palermo</ul>
   </li>
   <li>
