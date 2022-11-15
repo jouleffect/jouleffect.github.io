@@ -93,6 +93,9 @@ Blockchain:
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="97b6a1d9-cde2-49f0-bc7e-af431c508587" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43ea0d00-fb74-4468-81be-abdf5e3bdd99" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ddaeb50-83fa-4c7e-b83a-840cbb4ec8a0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dc673782-58f1-44c9-ba6a-534e25b5deab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3a4baa89-9392-4078-983f-420c22784298" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 </p>
 
 * * *
@@ -133,10 +136,9 @@ Blockchain:
 * * *
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/53179989/201954758-c55be2df-dfa2-4679-b837-0f2cf9192ca9.png" style="width:100px;" >
   <img src="https://user-images.githubusercontent.com/53179989/169140133-b30cb7d5-380a-4e2b-af7c-3ed4821d6a73.png" style="width:150px;" >
   <img src="https://cdn-icons-png.flaticon.com/512/1797/1797500.png" style="width:100px;" >
   <img src="https://icon-library.com/images/blockchain-icon/blockchain-icon-14.jpg" style="width:100px;" >
   <img src="https://www.deeptracetech.com/images/researchareas/ai.png" style="width:100px;" >
-  <img src="https://user-images.githubusercontent.com/53179989/197754656-4b9f5239-1bf3-4418-8135-f11b14715adf.png" style="width:100px;" >
-  <img src="https://user-images.githubusercontent.com/53179989/197755054-1b12551d-0bae-49a8-b9f1-8c0451d92d20.png" style="width:100px;" >
 </p>
