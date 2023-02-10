@@ -73,19 +73,22 @@ Blockchain:
 
 
 ## Operational fields:
-- AI: Machine Learning, Deep Learning and Data Science 
-- Digital Software Development
-- Datawarehouse
-- Complex networks
-- Cloud Technologies
 - Cybersecurity
+- Blockchain
+- Smart Contracts
+- Cloud Technologies
+- AI: Machine Learning, Deep Learning and Data Science 
+- Complex networks
 
 * * * 
 
 ## Certificates & Badges:
 
 <p>
+  <a href="https://coursera.org/share/6700e4f7c824ccbf43aedb782f5ec20e"><img src="" style="width:300px" /></a>  
   <a href="https://coursera.org/share/32fea26fa8232dab0e4a951109322da9"><img src="https://user-images.githubusercontent.com/53179989/201954262-4e59f14c-4bb7-4ce8-8587-065c3a758f82.png" style="width:300px" /></a>  
+</p>
+<p>
   <a href="https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95"><img src="https://user-images.githubusercontent.com/53179989/158012817-839c934e-a047-42ae-ac55-ba5505273c3b.png" style="width:300px" /></a>
   <a href="https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd"><img src="https://user-images.githubusercontent.com/53179989/158012970-9f9e0813-8a7e-46f4-aec8-626b2d126245.png" style="width:300px" /></a>
 </p>
