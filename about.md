@@ -22,6 +22,8 @@ Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 Python Libraries:
  
@@ -51,23 +53,25 @@ Tools & Technologies:
 Blockchain:
 
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 
 * * *
 
 ## Professional career:
 
-- 2021 : Cloud Support Engineer @ Seeds S.r.l.
-- 2015 - 2020 : IT System & Network Admin @ Teleselling Company
-- 2010 - 2015 : IT Helpdesk @ Teleselling Company
+- 2021 : Cloud Support Engineer - Seeds S.r.l. - Palermo, IT
+- 2010 - 2020 : IT System & Network Admin - 4U Italia srl - Palermo, IT
+- 2009 - Stage Java Programmer - Engineering SpA - Palermo, IT
 
 * * *
 
 ## Education:
 
-- 2020 - 2023 : Master in Informatics @ University of Palermo
-- 2009 : IFTS Regional course 
-- 2002 - 2008 : Bachelor degree in mathematics
+- March 2023 : Master in Computer Science - University of Palermo
+- Dec 2008 : Bachelor degree in Mathematics - University of Palermo
 
 * * *
 
