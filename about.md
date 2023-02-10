@@ -85,7 +85,7 @@ Blockchain:
 ## Certificates & Badges:
 
 <p>
-  <a href="https://coursera.org/share/6700e4f7c824ccbf43aedb782f5ec20e"><img src="" style="width:300px" /></a>  
+  <a href="https://coursera.org/share/6700e4f7c824ccbf43aedb782f5ec20e"><img src="https://user-images.githubusercontent.com/53179989/218031791-9a0d4928-559f-499d-8a03-1cf52a7a7fca.png" style="width:300px" /></a>  
   <a href="https://coursera.org/share/32fea26fa8232dab0e4a951109322da9"><img src="https://user-images.githubusercontent.com/53179989/201954262-4e59f14c-4bb7-4ce8-8587-065c3a758f82.png" style="width:300px" /></a>  
 </p>
 <p>
