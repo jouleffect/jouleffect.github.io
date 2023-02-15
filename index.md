@@ -11,6 +11,7 @@
       <img src="https://signoscv.com/wp-content/uploads/2021/11/block1.jpg" style="height:200px">
       <h3>BLOCKCHAIN</h3>
         <p><a href="hyperledger.html">Hyperledger Fabric Energy</a></p>
+        <p><a href="">Digital Battery Passport - Coming soon</a></p>
     </div>
     
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
