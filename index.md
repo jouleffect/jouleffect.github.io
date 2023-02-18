@@ -4,7 +4,7 @@
       <img src="https://www.saidea.it/wp-content/uploads/2021/09/Pillar-newsletter-bando.jpg" style="height:200px">
       <h3>CYBERSECURITY</h3>
         <p><a href="network_monitor.html">LAN Access Control Script</a></p>
-        <p><a href="https://github.com/jouleffect/Intrusion-Detection-System">Deep Learning Models for Intrusion Detection System</a></p>
+        <p><a href="ids.html">Deep Learning Models for Intrusion Detection System</a></p>
     </div>
   
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
