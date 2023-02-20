@@ -147,6 +147,25 @@ $x_{scaled} = \frac{x_i - x_{min}}{x_{max} - x_{min}}$
 
 The evaluation metrics used in this work are the same as those used in the reference paper.
 
-- Accuracy. the percentage of the records number classified correctly over the total records.
-- TPR. True positive rate: percentage of the anomaly records number correctly flagged as anomaly over the total number of anomaly records.
-- FPR. False positive rate: percentage of the normal records number wrongly flagged as anomaly is divided by the total number of normal records.
+- **Accuracy**. the percentage of the records number classified correctly over the total records.
+- **TPR**. True positive rate: percentage of the anomaly records number correctly flagged as anomaly over the total number of anomaly records.
+- **FPR**. False positive rate: percentage of the normal records number wrongly flagged as anomaly is divided by the total number of normal records.
+
+### Random Forest Model
+
+The basic model applied to the dataset is Random Forest.
+
+<pre><code>
+# Model without ADASYN data resampled
+RFmodel = RandomForestClassifier(random_state=0)
+RFmodel.fit(X_train_scaled, y_train)
+RFpredictions = RFmodel.predict(X_test_scaled)
+# Model with ADASYN data resampled
+RFmodel = RandomForestClassifier(random_state=0)
+RFmodel.fit(X_ada_scaled, y_ada)
+RFpredictions = RFmodel.predict(X_test_scaled)
+</code></pre>
+
+The accuracy score of the test prediction is 80,97% with ADASYN resampling, and 76,39% without
+ADASYN.
+The confusion matrix of predicted labels is shown below:
