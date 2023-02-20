@@ -169,3 +169,37 @@ RFpredictions = RFmodel.predict(X_test_scaled)
 The accuracy score of the test prediction is 80,97% with ADASYN resampling, and 76,39% without
 ADASYN.
 The confusion matrix of predicted labels is shown below:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/cm_RF.png">
+</p>
+
+### FeedForward Neural Network Model
+
+Three Dense layers of size=256, each followed by Dropout layers with rate=0.2.
+The best weights of the training are saved to a checkpoint filepath.
+The final accuracy score, with ADASYN resampled data, is 82.58%, without ADASYN is 79%.
+The trend of the accuracy/epoch and the confusion matrix are shown below:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/acc_nn.png">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/cm_NN.png">
+</p>
+
+### CNN Model
+
+There are three 1D convolutional layers with filters=128 and kernel_size=3, followed by a 1D
+MaxPooling layer with pool_size=2. Finally a LSTM layer and the Output layer with 5 units and
+softmax activation function. The best weights of the training are saved to a checkpoint filepath.
+The parameters of the training are the following:
+
+- epoch = 10
+- batch_size = 64
+- Optimization Algorithm = Adam
+- Loss = Sparse Categorical Crossentropy
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/acc_CNN.png">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/cm_CNN.png">
+</p>
+
