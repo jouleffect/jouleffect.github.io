@@ -238,4 +238,6 @@ Ultimately, with the combination of ADASYN resampling, improved stacked autoenco
 
 - DING, Yalei; ZHAI, Yuqing. Intrusion detection system for NSL-KDD dataset using convolutional neural networks. In: Proceedings of the 2018 2nd International Conference on Computer Science and Artificial Intelligence. 2018. p. 81-85.
 - FU, Yanfang, et al. A Deep Learning Model for Network Intrusion Detection with Imbalanced Data. Electronics, 2022, 11.6: 898.
-- NSL-KDD dataset from the Canadian Institute for Cybersecurity. https://www.unb.ca/cic/datasets/nsl.html
+- NSL-KDD dataset from the Canadian Institute for Cybersecurity.
+
+ https://www.unb.ca/cic/datasets/nsl.html
