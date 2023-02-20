@@ -94,7 +94,7 @@ connection.
 
 
 <p align="center">
-  <img src="https://github.com/jouleffect/Intrusion-Detection-System/blob/main/img/flags.png">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/flags.png">
 </p>
 
 The "S0" flag is widely used by a Dos attack. Infact, the purpouse of Dos attack is to attempt many
@@ -102,7 +102,7 @@ connection to the server, sending many packets, in order to burden the network l
 the services unavailables. It doesn't matter if a connection is established.
 
 <p align="center">
-  <img src="https://github.com/jouleffect/Intrusion-Detection-System/blob/main/img/flags_hist.png">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/flags_hist.png">
 </p>
 
 
@@ -142,3 +142,11 @@ MinMax normalization, is applied on the dataset, in order to keep all the values
 
 $x_{scaled} = \frac{x_i - x_{min}}{x_{max} - x_{min}}$
 
+## Models
+### Evaluation Metrics
+
+The evaluation metrics used in this work are the same as those used in the reference paper.
+
+- Accuracy. the percentage of the records number classified correctly over the total records.
+- TPR. True positive rate: percentage of the anomaly records number correctly flagged as anomaly over the total number of anomaly records.
+- FPR. False positive rate: percentage of the normal records number wrongly flagged as anomaly is divided by the total number of normal records.
