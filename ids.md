@@ -54,7 +54,7 @@ In the training file, the data distribution in function of categories is very un
 are a lot of items with Normal and Dos traffic, but very few cases of U2R and R2L.
 
 <p align="center">
-  <img src="https://github.com/jouleffect/Intrusion-Detection-System/blob/main/img/macro_category.png" style="width:400px;">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/macro_category.png" style="width:400px;">
 </p>
 
 Among the main categorical attributes of the dataset, there is the Protocol type:
@@ -86,7 +86,7 @@ with remote login sessions. This protocol is the one used by all five categories
 most vulnerable.
 
 <p align="center">
-  <img src="https://github.com/jouleffect/Intrusion-Detection-System/blob/main/img/services_hist.png">
+  <img src="https://raw.githubusercontent.com/jouleffect/Intrusion-Detection-System/main/img/services_hist.png">
 </p>
 
 The flag is used to indicate a particular state of connection or to handle a control of a particular
