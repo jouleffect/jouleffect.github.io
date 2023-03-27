@@ -11,7 +11,7 @@
       <img src="https://signoscv.com/wp-content/uploads/2021/11/block1.jpg" style="height:200px">
       <h3>BLOCKCHAIN</h3>
         <p><a href="hyperledger.html">Hyperledger Fabric Energy</a></p>
-        <p><a href="https://github.com/jouleffect/jouleffect.github.io/files/11081280/La_Blockchain_e_gli_Smart_Contract_per_la_tracciabilit__delle_Batterie_e_dei_RAEE_per_applicazioni_in_Second_Life.pdf">Digital Battery Passport - Coming soon</a></p>
+        <p><a href="https://github.com/jouleffect/jouleffect.github.io/files/11081280/La_Blockchain_e_gli_Smart_Contract_per_la_tracciabilit__delle_Batterie_e_dei_RAEE_per_applicazioni_in_Second_Life.pdf">Digital Battery Passport</a></p>
     </div>
     
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
