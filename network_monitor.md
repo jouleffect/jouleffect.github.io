@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LAN Access Control Script
+title: WIFI Access Control Script
 date: 01/03/2022
 tags: networking - cybersecurity - wifi - lan
 ---
