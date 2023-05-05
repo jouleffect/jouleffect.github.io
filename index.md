@@ -3,7 +3,7 @@
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
       <img src="https://www.saidea.it/wp-content/uploads/2021/09/Pillar-newsletter-bando.jpg" style="height:200px">
       <h3>CYBERSECURITY</h3>
-        <p><a href="network_monitor.html">Vulnerability Assessments and Penetration Testing</a></p>
+        <p><a href="pentest.html">Vulnerability Assessments and Penetration Testing</a></p>
         <p><a href="ids.html">Deep Learning Models for Intrusion Detection System</a></p>
     </div>
   
