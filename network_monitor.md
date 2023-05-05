@@ -8,9 +8,9 @@ tags: networking - cybersecurity - wifi - lan
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Python script to monitor private network access, using Nmap
+## Python script for monitoring wifi network access, using Nmap
 
-This script is thinked in order to detect new connections to a private access point, of a single specific lan network.\
+This script is designed in order to detect new connections to a private access point, of a single specific wifi network.\
 A list of allowed devices (withelist) is defined in a text file.\
 The first thing to do is to install the requirements:
 
