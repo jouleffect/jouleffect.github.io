@@ -3,6 +3,8 @@ layout: post
 title: WIFI Access Control Script
 date: 01/03/2022
 tags: networking - cybersecurity - wifi - lan
+githublink: 
+githubzip_url: 
 ---
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
