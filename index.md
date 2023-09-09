@@ -1,6 +1,6 @@
   <div align="center" style="height:500px;margin-top:30px;margin-bottom:30px;"> 
     
-    <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
+    <div style="float:left;border:1px solid #D3D3D3;width:300px;height:450px;margin-left:30px;background-color:black;margin-top:20px;">
       <img src="https://www.saidea.it/wp-content/uploads/2021/09/Pillar-newsletter-bando.jpg" style="height:200px">
       <h3>CYBERSECURITY</h3>
         <p><a href="cryptography.html">Cryptography</a></p>
