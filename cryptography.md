@@ -5,7 +5,7 @@
 
 <h1 align="center"> Cryptography </h1>
 
-<p align="center"><img src="https://github.com/jouleffect/jouleffect.github.io/assets/53179989/3ac0aa59-4be7-4ea6-b612-149d037699c8.png" style="width:200px" />
+<p align="center"><img src="https://user-images.githubusercontent.com/53179989/266791278-3ac0aa59-4be7-4ea6-b612-149d037699c8.png" style="width:200px" />
 </p>
 
 * * *
