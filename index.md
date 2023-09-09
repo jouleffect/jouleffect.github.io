@@ -8,14 +8,14 @@
         <p><a href="ids.html">Deep Learning Models for Intrusion Detection System</a></p>
     </div>
   
-    <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
+    <div style="float:left;border:1px solid #D3D3D3;width:300px;height:450px;margin-left:30px;background-color:black;margin-top:20px;">
       <img src="https://signoscv.com/wp-content/uploads/2021/11/block1.jpg" style="height:200px">
       <h3>BLOCKCHAIN</h3>
         <p><a href="hyperledger.html">Hyperledger Fabric Energy</a></p>
         <p><a href="https://github.com/jouleffect/jouleffect.github.io/files/11081280/La_Blockchain_e_gli_Smart_Contract_per_la_tracciabilit__delle_Batterie_e_dei_RAEE_per_applicazioni_in_Second_Life.pdf">Digital Battery Passport (PDF)</a></p>
     </div>
     
-    <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;margin-left:30px;background-color:black;margin-top:20px;">
+    <div style="float:left;border:1px solid #D3D3D3;width:300px;height:450px;margin-left:30px;background-color:black;margin-top:20px;">
       <img src="https://user-images.githubusercontent.com/53179989/155875637-ec06bb8d-5417-4b38-aff6-c856791e0da2.png">
       <h3>COMPLEX NETWORKS</h3>
         <p><a href="epidemic-simulator.html">Epidemic Simulator</a></p>
