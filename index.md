@@ -40,11 +40,11 @@
     
   </div>
   
-  ---
+  ***
   
   <div align="center" style="clear: both;">
-  <h1> Here is the link to the blog page about Cryptography and Cybersecurity topics:</h1>
-  <p><a href="https://jouleffect.github.io/hackablog/">HackaBlog</a></p>
+  <h2> Take a look at <a href="https://jouleffect.github.io/hackablog/">HackaBlog</a>, the blog page about Cryptography and Cybersecurity topics! </h2>
+  <!--p><a href="https://jouleffect.github.io/hackablog/">HackaBlog</a></p-->
   
   </div>
   
