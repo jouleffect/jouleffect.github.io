@@ -76,11 +76,16 @@ Blockchain:
 ## Certificates:
 
 <p>
-  <a href="https://coursera.org/share/6700e4f7c824ccbf43aedb782f5ec20e"><img src="https://user-images.githubusercontent.com/53179989/218031791-9a0d4928-559f-499d-8a03-1cf52a7a7fca.png" style="width:300px" /></a>  
-  <a href="https://coursera.org/share/32fea26fa8232dab0e4a951109322da9"><img src="https://user-images.githubusercontent.com/53179989/201954262-4e59f14c-4bb7-4ce8-8587-065c3a758f82.png" style="width:300px" /></a>  
+  <a href="https://coursera.org/share/bb34848dbb7f78be8b63d45de53ab1d3"><img src="https://github.com/jouleffect/jouleffect.github.io/assets/53179989/a236c9c9-285c-4e1c-8865-e02e96ea510a" style="width:300px" /></a> 
+  <a href="https://coursera.org/share/885fafec6d7359271a7316dee80fdef4"><img src="https://github.com/jouleffect/jouleffect.github.io/assets/53179989/7590c41d-8726-4ca8-81ab-0b90181a8e13" style="width:300px" /></a> 
+  <a href="https://coursera.org/share/818a8bcce543d2aecfc077d813455fe7"><img src="https://github.com/jouleffect/jouleffect.github.io/assets/53179989/59811e2f-a2ee-4132-83ab-6c3e88bb1ee2" style="width:300px" /></a> 
 </p>
 <p>
+  <a href="https://coursera.org/share/6700e4f7c824ccbf43aedb782f5ec20e"><img src="https://user-images.githubusercontent.com/53179989/218031791-9a0d4928-559f-499d-8a03-1cf52a7a7fca.png" style="width:300px" /></a>   
+  <a href="https://coursera.org/share/32fea26fa8232dab0e4a951109322da9"><img src="https://user-images.githubusercontent.com/53179989/201954262-4e59f14c-4bb7-4ce8-8587-065c3a758f82.png" style="width:300px" /></a> 
   <a href="https://coursera.org/share/de6af3003874f5b528eaf778dc94ac95"><img src="https://user-images.githubusercontent.com/53179989/158012817-839c934e-a047-42ae-ac55-ba5505273c3b.png" style="width:300px" /></a>
+</p>
+<p>      
   <a href="https://coursera.org/share/869b7e79dff91560e5c5271535a2c6dd"><img src="https://user-images.githubusercontent.com/53179989/158012970-9f9e0813-8a7e-46f4-aec8-626b2d126245.png" style="width:300px" /></a>
 </p>
 <!--p>
