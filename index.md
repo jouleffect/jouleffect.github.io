@@ -16,12 +16,12 @@
     </div>
     
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:450px;margin-left:30px;background-color:black;margin-top:20px;">
-      <img src="https://user-images.githubusercontent.com/53179989/155875637-ec06bb8d-5417-4b38-aff6-c856791e0da2.png">
+      <img src="https://github.com/jouleffect/jouleffect.github.io/assets/53179989/d0196c28-d979-4bff-b075-eb6b2e81ebf2">
       <h3>CLOUD DEVOPS</h3>
         <!--p><a href="epidemic-simulator.html">Epidemic Simulator</a></p-->
     </div>  
     
-    <div style="float:left;border:1px solid #D3D3D3;width:300px;height:400px;background-color:black;margin-left:30px;margin-top:20px;">
+    <div style="float:left;border:1px solid #D3D3D3;width:300px;height:450px;background-color:black;margin-left:30px;margin-top:20px;">
       <img src="https://user-images.githubusercontent.com/53179989/155874354-d2bbab10-ec80-4d19-8474-fe6f0be37509.jpg">
       <h3>Machine Learning</h3>
         <p><a href="https://github.com/jouleffect/babyeye">Baby Eye</a></p>
@@ -33,7 +33,7 @@
         <p><a href="epidemic-simulator.html">Epidemic Simulator</a></p>
     </div> 
     <div style="float:left;border:1px solid #D3D3D3;width:300px;height:450px;margin-left:30px;background-color:black;margin-top:20px;">
-      <img src="https://user-images.githubusercontent.com/53179989/155875637-ec06bb8d-5417-4b38-aff6-c856791e0da2.png">
+      <img src="https://github.com/jouleffect/jouleffect.github.io/assets/53179989/99be395c-f798-46be-9d1a-ad89e0f63691">
       <h3>JAVA PROGRAMMING</h3>
         <p><a href="https://github.com/jouleffect/clocktask">Clocktask</a></p>
     </div> 
@@ -43,14 +43,8 @@
   ---
   
   <div align="center" style="clear: both;">
-  <!--h1>Hackathons & Digital Innovation Workshops:</h1>
-  <ul>
-    <li> 19/05/2022 - Palermo (IT) : Cloud Careers & Job Opportunities </li>
-  </ul>
-  
-    Here is the link to the blog page about all the experiences of IT meetings around the world:
-  <p><a href="https://jouleffect.github.io/hackablog/">HackaBlog</a></p-->
+  <h1> Here is the link to the blog page about Cryptography and Cybersecurity topics:</h1>
+  <p><a href="https://jouleffect.github.io/hackablog/">HackaBlog</a></p>
   
   </div>
   
-
