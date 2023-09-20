@@ -103,6 +103,9 @@ Blockchain:
 
 <p align="center">
   <li>
+    <ul>20/09/2023 - Cisco Multicloud certifications virtual event - Online</ul>
+  </li>
+  <li>
     <ul>14/11/2022 - Production of raw materials for batteries from European resources - Brussels</ul>
   </li>
   <li>
