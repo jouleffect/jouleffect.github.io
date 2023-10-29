@@ -40,7 +40,6 @@
     
   </div>
   
-  ***
   
   <div align="center" style="clear: both;">
   <!--h2> Take a look at <a href="https://jouleffect.github.io/hackablog/">HackaBlog</a>, the blog page about Cryptography and Cybersecurity topics! </h2-->
@@ -48,3 +47,4 @@
   
   </div>
   
+***
