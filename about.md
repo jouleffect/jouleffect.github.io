@@ -7,7 +7,6 @@
 
                                                                                                                 
 <p align="center"><b>Mail address </b>: giulia.maraventano@gmail.com</p>
-<p align="center"><b> LinkedIn </b>: https://www.linkedin.com/in/giulia-maraventano</p>
 
 <!--p align="center"><a href="https://github.com/jouleffect/jouleffect.github.io/files/11081301/CV_2023_Giulia_Maraventano.pdf"><b> Curriculum Vitae PDF </b></a></p-->
 
