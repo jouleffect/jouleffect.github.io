@@ -1,11 +1,12 @@
 
 <!--p align="center"><img src="https://user-images.githubusercontent.com/53179989/155505992-cf7cfe47-7aef-4d7f-a6e6-ca63ba5b0cee.jpeg" /></p-->
 
-<!--h3 align="center"> Hi! I’m "Jouleffect" </h3-->
 
-<h2 align="center"> Innovative Systems & Digital Technologies </h2>
+<h2 align="center"> About me </h2>
+
+
                                                                                                                 
-<p align="center"><b>Mail address </b>: giulia.maraventano@community.unipa.it</p>
+<p align="center"><b>Mail address </b>: giulia.maraventano@gmail.com</p>
 <p align="center"><b> LinkedIn </b>: https://www.linkedin.com/in/giulia-maraventano</p>
 
 <!--p align="center"><a href="https://github.com/jouleffect/jouleffect.github.io/files/11081301/CV_2023_Giulia_Maraventano.pdf"><b> Curriculum Vitae PDF </b></a></p-->
@@ -58,7 +59,7 @@ Tools & Technologies:
 
 ## Professional career:
 
-- 2023 : IT Consultant - S.C. Schera - Palermo, IT
+- 2023 : IT Consultant - S.C. Schera arl - Palermo, IT
 - 2021 : Cloud Support Engineer - Seeds S.r.l. - Palermo, IT
 - 2010 - 2020 : IT System & Network Admin - 4U Italia srl - Palermo, IT
 
@@ -148,7 +149,7 @@ Tools & Technologies:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53179989/201954758-c55be2df-dfa2-4679-b837-0f2cf9192ca9.png" style="width:100px;" >
   <img src="https://user-images.githubusercontent.com/53179989/169140133-b30cb7d5-380a-4e2b-af7c-3ed4821d6a73.png" style="width:150px;" >
-  <img src="https://cdn-icons-png.flaticon.com/512/1797/1797500.png" style="width:100px;" >
+  <!--img src="https://cdn-icons-png.flaticon.com/512/1797/1797500.png" style="width:100px;" >
   <img src="https://icon-library.com/images/blockchain-icon/blockchain-icon-14.jpg" style="width:100px;" >
-  <img src="https://www.deeptracetech.com/images/researchareas/ai.png" style="width:100px;" >
+  <img src="https://www.deeptracetech.com/images/researchareas/ai.png" style="width:100px;" -->
 </p>
