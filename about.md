@@ -3,12 +3,12 @@
 
 
 <h2 align="center"> About me </h2>
-
-
                                                                                                                 
 <p align="center"><b>Mail address </b>: giulia.maraventano@gmail.com</p>
 
-<!--p align="center"><a href="https://github.com/jouleffect/jouleffect.github.io/files/11081301/CV_2023_Giulia_Maraventano.pdf"><b> Curriculum Vitae PDF </b></a></p-->
+<p align="center">
+<a href="https://github.com/jouleffect/jouleffect.github.io/files/13224840/CV-Giulia-Maraventano-2023.pdf" class="btn">Download My CV</a>
+</p>
 
 * * *
 
